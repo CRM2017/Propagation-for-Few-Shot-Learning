@@ -1,4 +1,4 @@
-This is a course project Paper 
+This is a course project paper 
 
 Abstract:
 
